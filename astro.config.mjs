@@ -21,5 +21,6 @@ export default defineConfig({
     drafts: true
   },
   site: 'https://noa-s-portfolio.github.io',
+  base: '/microblog',
   integrations: [sitemap(), mdx()]
 });
