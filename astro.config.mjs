@@ -20,6 +20,6 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://lexingtonthemes.com',
+  site: 'https://noa-s-portfolio.github.io',
   integrations: [sitemap(), mdx()]
 });
